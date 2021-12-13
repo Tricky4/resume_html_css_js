@@ -1,2 +1,9 @@
- Images
- ![LCO Mascot] (https://play-lh.googleusercontent.com/Fb4J4smpmcZjMK_ZqtYvy4VL8Zj2IZmXghrxHwV_nZPqLtYwcafSRetAHG7NDlzTXd8)
+ # Element Launchpad 
+
+ [Visit Website](https://element-final-xi.vercel.app/ "Element Launchpad Website")
+
+
+
+**Introduction**  
+
+<img src="https://element-final-xi.vercel.app/static/media/logo.1bde0fae.png" alt="Element Logo" width="50"/>
